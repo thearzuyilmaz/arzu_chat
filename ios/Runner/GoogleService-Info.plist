@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>210354035049-4bb7donc1efh7mntnu67sh0j3k4o7g9l.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.210354035049-4bb7donc1efh7mntnu67sh0j3k4o7g9l</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBJmFb_n8fTOlzXSDSo1ArxBaNuX6VZ2b4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>210354035049</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.arzuChat</string>
+	<key>PROJECT_ID</key>
+	<string>arzu-chat</string>
+	<key>STORAGE_BUCKET</key>
+	<string>arzu-chat.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:210354035049:ios:3f08885ed70881224ac5f8</string>
+</dict>
+</plist>

@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "210354035049",
+    "project_id": "arzu-chat",
+    "storage_bucket": "arzu-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210354035049:android:932e2f5efbcbe4554ac5f8",
+        "android_client_info": {
+          "package_name": "com.example.arzu_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210354035049-r57el255v2vp8u8tr7pvb5qq34e1mbbt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5eaQpbsqHJs_mjFNf4NHCINBRUhoFXhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210354035049-r57el255v2vp8u8tr7pvb5qq34e1mbbt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "210354035049-4bb7donc1efh7mntnu67sh0j3k4o7g9l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.arzuChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
